@@ -1,0 +1,120 @@
+---------------------Thread-1 ran free -m @ 13.232.168.188----------------------
+              total        used        free      shared  buff/cache   available
+Mem:            819         143         427          10         248         542
+Swap:             0           0           0
+
+----------------------Thread-4 ran uptime @ 13.232.168.188----------------------
+ 11:01:21 up 15 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+----------------------Thread-2 ran df -h @ 13.232.168.188-----------------------
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        391M     0  391M   0% /dev
+tmpfs           410M     0  410M   0% /dev/shm
+tmpfs           410M   11M  400M   3% /run
+tmpfs           410M     0  410M   0% /sys/fs/cgroup
+/dev/xvda2       10G  1.1G  9.0G  11% /
+tmpfs            82M     0   82M   0% /run/user/1001
+
+------------------------Thread-5 ran w @ 13.232.168.188-------------------------
+ 11:01:21 up 15 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+---------------------Thread-3 ran uname -a @ 13.232.168.188---------------------
+Linux ip-172-31-7-129.ap-south-1.compute.internal 4.18.0-80.4.2.el8_0.x86_64 #1 SMP Fri Jun 14 13:20:24 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+---------------------Thread-3 ran uname -a @ 13.232.168.188---------------------
+Linux ip-172-31-7-129.ap-south-1.compute.internal 4.18.0-80.4.2.el8_0.x86_64 #1 SMP Fri Jun 14 13:20:24 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+----------------------Thread-2 ran df -h @ 13.232.168.188-----------------------
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        391M     0  391M   0% /dev
+tmpfs           410M     0  410M   0% /dev/shm
+tmpfs           410M   11M  400M   3% /run
+tmpfs           410M     0  410M   0% /sys/fs/cgroup
+/dev/xvda2       10G  1.1G  9.0G  11% /
+tmpfs            82M     0   82M   0% /run/user/1001
+
+---------------------Thread-1 ran free -m @ 13.232.168.188----------------------
+              total        used        free      shared  buff/cache   available
+Mem:            819         141         428          10         249         544
+Swap:             0           0           0
+
+------------------------Thread-5 ran w @ 13.232.168.188-------------------------
+ 11:29:09 up 43 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+----------------------Thread-4 ran uptime @ 13.232.168.188----------------------
+ 11:29:09 up 43 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+---------------------Thread-1 ran free -m @ 13.232.168.188----------------------
+              total        used        free      shared  buff/cache   available
+Mem:            819         145         424          10         249         540
+Swap:             0           0           0
+
+----------------------Thread-4 ran uptime @ 13.232.168.188----------------------
+ 11:29:32 up 43 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+---------------------Thread-3 ran uname -a @ 13.232.168.188---------------------
+Linux ip-172-31-7-129.ap-south-1.compute.internal 4.18.0-80.4.2.el8_0.x86_64 #1 SMP Fri Jun 14 13:20:24 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+------------------------Thread-5 ran w @ 13.232.168.188-------------------------
+ 11:29:32 up 43 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+----------------------Thread-2 ran df -h @ 13.232.168.188-----------------------
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        391M     0  391M   0% /dev
+tmpfs           410M     0  410M   0% /dev/shm
+tmpfs           410M   11M  400M   3% /run
+tmpfs           410M     0  410M   0% /sys/fs/cgroup
+/dev/xvda2       10G  1.1G  9.0G  11% /
+tmpfs            82M     0   82M   0% /run/user/1001
+
+---------------------Thread-1 ran free -m @ 13.232.168.188----------------------
+              total        used        free      shared  buff/cache   available
+Mem:            819         145         424          10         249         540
+Swap:             0           0           0
+
+----------------------Thread-2 ran df -h @ 13.232.168.188-----------------------
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        391M     0  391M   0% /dev
+tmpfs           410M     0  410M   0% /dev/shm
+tmpfs           410M   11M  400M   3% /run
+tmpfs           410M     0  410M   0% /sys/fs/cgroup
+/dev/xvda2       10G  1.1G  9.0G  11% /
+tmpfs            82M     0   82M   0% /run/user/1001
+
+---------------------Thread-3 ran uname -a @ 13.232.168.188---------------------
+Linux ip-172-31-7-129.ap-south-1.compute.internal 4.18.0-80.4.2.el8_0.x86_64 #1 SMP Fri Jun 14 13:20:24 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+------------------------Thread-5 ran w @ 13.232.168.188-------------------------
+ 11:30:20 up 44 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+----------------------Thread-4 ran uptime @ 13.232.168.188----------------------
+ 11:30:20 up 44 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+----------------------Thread-2 ran df -h @ 13.232.168.188-----------------------
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        391M     0  391M   0% /dev
+tmpfs           410M     0  410M   0% /dev/shm
+tmpfs           410M   11M  400M   3% /run
+tmpfs           410M     0  410M   0% /sys/fs/cgroup
+/dev/xvda2       10G  1.1G  9.0G  11% /
+tmpfs            82M     0   82M   0% /run/user/1001
+
+----------------------Thread-4 ran uptime @ 13.232.168.188----------------------
+ 11:30:49 up 45 min,  0 users,  load average: 0.00, 0.00, 0.00
+
+------------------------Thread-5 ran w @ 13.232.168.188-------------------------
+ 11:30:49 up 45 min,  0 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+
+---------------------Thread-1 ran free -m @ 13.232.168.188----------------------
+              total        used        free      shared  buff/cache   available
+Mem:            819         143         426          10         250         542
+Swap:             0           0           0
+
+---------------------Thread-3 ran uname -a @ 13.232.168.188---------------------
+Linux ip-172-31-7-129.ap-south-1.compute.internal 4.18.0-80.4.2.el8_0.x86_64 #1 SMP Fri Jun 14 13:20:24 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+

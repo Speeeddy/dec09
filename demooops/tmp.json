@@ -1,0 +1,168 @@
+{
+  "/tmp": {
+    ".X1024-lock": [
+      11,
+      "Mon Dec  9 20:05:50 2019"
+    ],
+    "qtsingleapp-zoom-3e8-lockfile": [
+      0,
+      "Wed Dec  4 20:28:19 2019"
+    ],
+    "vboxdrv-Module.symvers": [
+      25519,
+      "Tue Dec 10 09:18:05 2019"
+    ],
+    "winstone8535967439204806079.jar": [
+      2390099,
+      "Wed Dec  4 18:46:44 2019"
+    ],
+    ".X0-lock": [
+      11,
+      "Tue Dec 10 08:14:07 2019"
+    ]
+  },
+  "/home/ravijaya": {
+    ".bashrc": [
+      3526,
+      "Sun Nov 24 15:42:26 2019"
+    ],
+    ".bash_logout": [
+      220,
+      "Sun Nov 24 15:42:26 2019"
+    ],
+    ".gitconfig": [
+      77,
+      "Wed Dec  4 18:07:03 2019"
+    ],
+    ".lesshst": [
+      49,
+      "Tue Dec 10 09:07:16 2019"
+    ],
+    ".ICEauthority": [
+      2230,
+      "Tue Dec 10 08:14:06 2019"
+    ],
+    ".bash_history": [
+      6682,
+      "Mon Dec  9 20:05:48 2019"
+    ],
+    ".profile": [
+      807,
+      "Sun Nov 24 15:42:26 2019"
+    ],
+    ".viminfo": [
+      29208,
+      "Sat Dec  7 21:46:49 2019"
+    ],
+    ".python_history": [
+      1150,
+      "Mon Dec  9 20:05:48 2019"
+    ]
+  },
+  "/home/ravijaya/Downloads": {
+    "Mastering_UNIX_SS.tar.gz": [
+      105896,
+      "Thu Dec  5 17:21:41 2019"
+    ],
+    "README.CD-manufacture": [
+      1290,
+      "Mon Nov 25 08:11:05 2019"
+    ],
+    "virtualbox-6.0_6.0.14-133895_Debian_buster_amd64.deb": [
+      109342004,
+      "Tue Dec 10 09:10:09 2019"
+    ],
+    "jenkins.io.key": [
+      9132,
+      "Wed Dec  4 18:25:41 2019"
+    ],
+    "Course-3_Shell Scripting Course Data Sheet.doc": [
+      52224,
+      "Tue Nov 26 19:21:17 2019"
+    ],
+    "Meru59876019.pdf": [
+      116431,
+      "Tue Nov 26 21:41:15 2019"
+    ],
+    "MeruK49863940.pdf": [
+      114054,
+      "Tue Nov 26 22:00:45 2019"
+    ],
+    "Software and Hardware List.pdf": [
+      131620,
+      "Thu Dec  5 17:16:54 2019"
+    ],
+    "jenkins_2.190.3_all.deb": [
+      77801034,
+      "Wed Dec  4 18:28:46 2019"
+    ],
+    "google-chrome-stable_current_amd64.deb": [
+      62950548,
+      "Sun Nov 24 18:00:39 2019"
+    ],
+    "CRN3823572658.pdf": [
+      109725,
+      "Tue Nov 26 21:59:14 2019"
+    ],
+    "rhel88.pem": [
+      1696,
+      "Mon Dec  9 15:31:02 2019"
+    ],
+    "SP_Python_DeepDive_3Days_CDS_Intuit.pdf": [
+      452373,
+      "Mon Dec  9 08:42:47 2019"
+    ],
+    "Python-3.8.0.tar.xz": [
+      17829824,
+      "Mon Nov 25 09:19:32 2019"
+    ],
+    "Cognixia Course - Shell Scripting.pdf": [
+      444422,
+      "Tue Nov 26 19:18:23 2019"
+    ],
+    "CRN3802989280.pdf": [
+      112198,
+      "Tue Nov 26 21:59:20 2019"
+    ],
+    "9781788990554_Code.zip": [
+      693224,
+      "Thu Dec  5 17:17:36 2019"
+    ],
+    "Mastering-Linux-Shell-Scripting-Second-Edition-master.zip": [
+      695518,
+      "Thu Dec  5 17:16:46 2019"
+    ],
+    "file_SAH1575038041 (1).pdf": [
+      40158,
+      "Sat Nov 30 19:01:16 2019"
+    ],
+    "file_inv_SAH1575038041.pdf": [
+      29900,
+      "Sat Nov 30 18:49:23 2019"
+    ],
+    "pycharm-community-2019.2.5.tar.gz": [
+      363809835,
+      "Sun Nov 24 19:01:15 2019"
+    ],
+    "file_SAH1575038041.pdf": [
+      40158,
+      "Sat Nov 30 18:46:14 2019"
+    ],
+    "Meru59876019 (1).pdf": [
+      116431,
+      "Tue Nov 26 21:41:49 2019"
+    ],
+    "Trainer Expense-Sheet Format Updated - Copy.xls": [
+      10240,
+      "Tue Nov 26 21:58:03 2019"
+    ],
+    "zoom_amd64.deb": [
+      71503908,
+      "Tue Dec  3 20:24:47 2019"
+    ],
+    "regex.pdf": [
+      136876,
+      "Tue Nov 26 15:06:37 2019"
+    ]
+  }
+}
